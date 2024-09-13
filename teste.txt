@@ -1,2 +1,2 @@
 esse e um arquivo de teste, fundamental para a analise
-Essa linha pode gerar um conflito.
+Essa linha pode gerar um conforto.
